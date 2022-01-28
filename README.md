@@ -1,24 +1,19 @@
-### Hey👋, this is Sriharsha A.
+# Hey👋, this is Sriharsha A.
 
 Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.ac.in/hyderabad/">BITS Pilani, Hyderabad Campus</a>, exploring Machine Learning, API-based programming and Flutter.
 
+## Github Streaks
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hash1524&theme=gotham" width="47%" align="right">
+
+
 <ul>
-  <li> 🔭 Currently working on <a href="https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview">30 Days of Postman - for Developers</a> <</li>
-  <li> 🌱 Currently grinding on Machine Learning, Postman and CC <</li>
-  <li> 📫 Reach me at <a href="https://www.linkedin.com/in/sriharsha-amam-ba2b331ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1XhlQA3jRvOV%2Fg2SiHuaDA%3D%3D">SriharshaAmam</a> <</li>
+  <li>🔭 Currently working on <a href="https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview">30 Days of Postman - for Developers</a> <</li>
+  <li>🌱 Currently grinding on Machine Learning, Postman and CC <</li>
+  <li>📫 Reach me at <a href="https://www.linkedin.com/in/sriharsha-amam-ba2b331ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1XhlQA3jRvOV%2Fg2SiHuaDA%3D%3D">SriharshaAmam</a> <</li>
   <li> 💻 Website loading... <</li>
 </ul>
-<!--
-**hash1524/hash1524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+<img src="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
