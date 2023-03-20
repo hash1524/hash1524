@@ -41,6 +41,10 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>  
+
+<a href="https://www.selenium.dev/" target="_blank"> 
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" alt="python" width="40" height="40"/>
+</a>  
   
 <a href="https://www.incorta.com/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/6626113?s=280&v=4" alt="Incorta" width="40" height="40"/>
