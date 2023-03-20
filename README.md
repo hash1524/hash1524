@@ -41,7 +41,7 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 </a>  
   
 <a href="https://www.incorta.com/" target="_blank"> 
-    <img src="https://github.com/Incorta/create-incorta-component/blob/master/resources/files/assets/icon.svg" alt="Incorta" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/6626113?s=280&v=4" alt="Incorta" width="40" height="40"/>
 </a>  
   
 <a href="https://dart.dev/" target="_blank"> 
