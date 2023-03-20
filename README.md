@@ -7,9 +7,6 @@
   <img align="left" alt="Sriharsha Amam | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/hash1524/hash1524)](https://github.com/hash1524/hash1524?color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/hash1524?color=blue)
-
 </br>
 
 Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.ac.in/hyderabad/">BITS Pilani, Hyderabad Campus</a>, exploring Machine Learning, API-based programming and Flutter.
