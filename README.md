@@ -40,6 +40,10 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>  
   
+<a href="https://www.incorta.com/" target="_blank"> 
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.cookielaw.org%2Flogos%2F9882133f-c1ae-40eb-ae82-1809edb651c1%2F85f742f6-1588-4234-8dfe-68c4d766a724%2F93e45462-ce59-4ab3-bd52-fbe9fddc67bf%2FIncorta_Blue_(1).png&tbnid=kfmlxqOVVpLAOM&vet=12ahUKEwjV77_T-en9AhXSgGMGHddvAq8QMygBegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.incorta.com%2F&docid=c-gtwIL6EkjPmM&w=2400&h=2568&q=incorta&ved=2ahUKEwjV77_T-en9AhXSgGMGHddvAq8QMygBegUIARDJAQ" alt="Incorta" width="40" height="40"/>
+</a>  
+  
 <a href="https://dart.dev/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" alt="dart" width="40" height="40"/>
 </a>
