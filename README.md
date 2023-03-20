@@ -31,7 +31,7 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 <p align="left">
 
 <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </a>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank">
