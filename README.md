@@ -31,7 +31,7 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 <p align="left">
 
 <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fpostman&psig=AOvVaw3yR-IzjGMTN2BnvtXJu5sl&ust=1679397662613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICF6YSy6v0CFQAAAAAdAAAAABAI" alt="Postman" width="40" height="40"/>
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fpostman&psig=AOvVaw3yR-IzjGMTN2BnvtXJu5sl&ust=1679397662613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICF6YSy6v0CFQAAAAAdAAAAABAI](https://cdn.worldvectorlogo.com/logos/postman.svg)" alt="Postman" width="40" height="40"/>
 </a>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank">
