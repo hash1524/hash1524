@@ -14,7 +14,7 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 
 ## Github Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hash1524&theme=gotham" width="55%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hash1524&theme=transparent" width="55%" align="right">
 
 
 <ul>
@@ -76,4 +76,4 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true&theme=gotham" alt="github stats" width="55%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true&theme=transparent" alt="github stats" width="55%" align="left"/>
