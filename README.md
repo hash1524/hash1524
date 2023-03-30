@@ -76,14 +76,4 @@ Hi, this is Sriharsha Amam, a CSE undergrad at <a href="https://www.bits-pilani.
 
 ## Github Stats
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true&theme=transparent"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=hash1524&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=hash1524&include_all_commits=false&theme=transparent" alt="github stats" width="55%" align="left"/>
